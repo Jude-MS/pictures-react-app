@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jude-ms.github.io/pictures-react-app/static/css/main.3a50d601.chunk.css",
+    "main.js": "/jude-ms.github.io/pictures-react-app/static/js/main.0dfd5b77.chunk.js",
+    "main.js.map": "/jude-ms.github.io/pictures-react-app/static/js/main.0dfd5b77.chunk.js.map",
+    "runtime-main.js": "/jude-ms.github.io/pictures-react-app/static/js/runtime-main.1ddf6ad9.js",
+    "runtime-main.js.map": "/jude-ms.github.io/pictures-react-app/static/js/runtime-main.1ddf6ad9.js.map",
+    "static/js/2.176c98f9.chunk.js": "/jude-ms.github.io/pictures-react-app/static/js/2.176c98f9.chunk.js",
+    "static/js/2.176c98f9.chunk.js.map": "/jude-ms.github.io/pictures-react-app/static/js/2.176c98f9.chunk.js.map",
+    "index.html": "/jude-ms.github.io/pictures-react-app/index.html",
+    "precache-manifest.a29dce2456c7d721f51e20001c2ead0b.js": "/jude-ms.github.io/pictures-react-app/precache-manifest.a29dce2456c7d721f51e20001c2ead0b.js",
+    "service-worker.js": "/jude-ms.github.io/pictures-react-app/service-worker.js",
+    "static/css/main.3a50d601.chunk.css.map": "/jude-ms.github.io/pictures-react-app/static/css/main.3a50d601.chunk.css.map",
+    "static/js/2.176c98f9.chunk.js.LICENSE.txt": "/jude-ms.github.io/pictures-react-app/static/js/2.176c98f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ddf6ad9.js",
+    "static/js/2.176c98f9.chunk.js",
+    "static/css/main.3a50d601.chunk.css",
+    "static/js/main.0dfd5b77.chunk.js"
+  ]
+}
